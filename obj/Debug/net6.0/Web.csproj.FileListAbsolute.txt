@@ -117,3 +117,5 @@ C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0
 C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
 C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\ref\Web.dll
 C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\appsettings.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Owin.dll
